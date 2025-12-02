@@ -23,6 +23,18 @@ console.log(c_number);//1
 logged=1
 Boolean_logged=Boolean(logged)
 console.log(Boolean_logged);
+console.log("<------------operation--------------->");
+let a1=5;
+let b1=-a1;
+console.log(b1);//-5
+console.log(3+1);//4
+console.log("shivam "+"vanjara");//shivam vanjara
+console.log("1"+2+2);//122
+console.log(1+2+"2");//32
+
+
+
+
 
 
 

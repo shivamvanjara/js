@@ -121,9 +121,4 @@ const code = [
 code.forEach( (element) => {
     console.log(element.name, element.extension);
 } )
-
-
-
-
-
-
+//for each is not allow to return the value 
